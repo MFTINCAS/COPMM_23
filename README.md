@@ -1,2 +1,2 @@
-# COPMM_23
+# CopMixM_class
 Clusterization with different copulas Families
